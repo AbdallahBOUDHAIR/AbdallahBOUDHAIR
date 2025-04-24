@@ -7,35 +7,30 @@
 
 ---
 
-### 🔧 Compétences techniques
+## 👨‍💻 Compétences techniques
 
-- **Langages :** Java, TypeScript, HTML/CSS  
-- **Back-End :** Spring Boot, REST APIs, MySQL  
-- **Front-End :** Angular, Bootstrap  
-- **Outils & DevOps :** Git, GitHub, IntelliJ IDEA, Postman, Maven
-
----
-## 🖥️ Languages :
+### 🧠 Langages
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-## 🧰 Tools :
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+### 🖥️ Back-End
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-## 📚 Livres recommandés :
-- *Artificial Intelligence By Example* – Denis Rothman  
-- *Clean Code* – Robert C. Martin
+### 💻 Front-End
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=**TON_USERNAME**&show_icons=true&theme=radical)
+### 🔧 Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 
-## 🔥 Most Used Languages
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**TON_USERNAME**&layout=compact&theme=radical)
 
 
 Merci pour la visite ! ⭐
